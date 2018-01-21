@@ -14,20 +14,20 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="jdk" jdkName="OSGi%Minimum-1.2" jdkType="JavaSDK" />
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="module-library">
-      <library name="android.jar">
+      <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/libs/android.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../jarfile/uiautomator.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
     <orderEntry type="module-library">
-      <library name="uiautomator.jar">
+      <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/libs/uiautomator.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../jarfile/android.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
