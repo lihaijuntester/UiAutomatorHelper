@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="com.BruceEckel.simpletest">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Thinking in java 3rd/com.BruceEckel.simpletest.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Thinking in java 3rd/com.BruceEckel.simpletest.jar!/com.BruceEckel.simpletest/com.Bruce Eckel.simpletest" />
+      <root url="jar://$PROJECT_DIR$/../../Thinking in java 3rd/com.BruceEckel.simpletest.jar!/com.BruceEckel.simpletest/com.Bruce Eckel.simpletest/io" />
+      <root url="jar://$PROJECT_DIR$/../../Thinking in java 3rd/com.BruceEckel.simpletest.jar!/com.BruceEckel.simpletest/com.Bruce Eckel.simpletest/io/xfiles" />
+    </SOURCES>
+  </library>
+</component>
